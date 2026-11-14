@@ -10,7 +10,7 @@
 
 ## Репозитории ColonySim
 
-- [Валт Obsidian](https://github.com/ilyasazazaz/ColonySim-Vault)
-- [Продукт](https://github.com/ilyasazazaz/ColonySim-Product)
-- [Simple Colony](https://github.com/ilyasazazaz/ColonySim-Simple-Colony)
-- [Pawn Stories](https://github.com/ilyasazazaz/ColonySim-Pawn-Stories)
+- [Валт Obsidian](https://github.com/ColonySim/ColonySim-Vault)
+- [Продукт](https://github.com/ColonySim/ColonySim-Product)
+- [Simple Colony](https://github.com/ColonySim/ColonySim-Simple-Colony)
+- [Pawn Stories](https://github.com/ColonySim/ColonySim-Pawn-Stories)
